@@ -15,8 +15,8 @@ ray aberration curve
 wavefront aberration curve
 # rim;wfr;ssi z1 2;go
 set the scale as 2 wavefront
-*Plot lens layout with scale bar 12.5mm*
-vie;ssi 12.5;go
+>*Plot lens layout with scale bar 12.5mm*  
+> vie;ssi 12.5;go
 
 
 
