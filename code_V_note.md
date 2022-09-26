@@ -1,5 +1,6 @@
 # [CodeV in OSC Site Licensed Software](https://wp.optics.arizona.edu/helpdesk/osc-site-licensed-software/other-links/)
 <br />
+> password: *OSCstudent*  
 # [CodeV eLearning Courses (Synopsys)](https://www.synopsys.com/optical-solutions/support/online-learning.html)
 
 # wl?  
