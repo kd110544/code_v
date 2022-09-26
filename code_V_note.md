@@ -1,11 +1,12 @@
+[CodeV](https://wp.optics.arizona.edu/helpdesk/osc-site-licensed-software/other-links/)
+[Code V eLearning Courses](https://www.synopsys.com/optical-solutions/support/online-learning.html)
+
 # wl?  
 wavelength 
 # dim? 
 dimention in or mm
-***
 dim mm
 dim in
-***
 
 # rim;go 
 ray aberration curve
@@ -13,12 +14,22 @@ ray aberration curve
 wavefront aberration curve
 # rim;wfr;ssi z1 2;go
 set the scale as 2 wavefront
+*Plot lens layout with scale bar 12.5mm*
+vie;ssi 12.5;go
+
+
+
 
 # spo;go
 spot diagram
 
 # PIM
 paraxial image solve 
+
+
+# Markdown Guide
+
+> **_NOTE:_**  The note content.
 
 *single asterisks*
 
