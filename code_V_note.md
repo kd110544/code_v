@@ -2,7 +2,7 @@
 > password: **OSCstudent**
 
 <br />
-# [CodeV eLearning Courses - Synopsys](https://www.synopsys.com/optical-solutions/support/online-learning.html)
+# [CodeV eLearning Courses - Synopsys](https://www.synopsys.com/optical-solutions/support/online-learning.html/)
 
 # wl?  
 wavelength 
