@@ -1,27 +1,33 @@
-### [CodeV in OSC Site Licensed Software](https://wp.optics.arizona.edu/helpdesk/osc-site-licensed-software/other-links/)
+# [CodeV in OSC Site Licensed Software](https://wp.optics.arizona.edu/helpdesk/osc-site-licensed-software/other-links/)
 > password: **OSCstudent**
 
-
-### [CodeV eLearning Courses - Synopsys](https://www.synopsys.com/optical-solutions/support/online-learning.html/)
+# [CodeV eLearning Courses - Synopsys](https://www.synopsys.com/optical-solutions/support/online-learning.html/)
 
 # wl?  
 wavelength 
+
 # dim? 
 dimention in or mm
 >dim mm  
 >dim in
 
-# rim;go 
-ray aberration curve
-# rim;wfr;go
-wavefront aberration curve
-# rim;wfr;ssi z1 2;go
-set the scale as 2 wavefront
 # vie;ssi 12.5;go
-Plot lens layout with scale bar 12.5mm
+lens layout with scale bar 12.5mm
 
 # spo;go
 spot diagram
+
+# rim;go 
+ray aberration curve; transverse ray aberration
+
+# rim;wfr;go
+wavefront aberration curve; wavefront error
+
+# rim;wfr;ssi z1 2;go
+set the scale as 2 wavefront
+
+
+
 
 
 
