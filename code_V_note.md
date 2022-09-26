@@ -6,7 +6,7 @@
 wavelength 
 # dim? 
 dimention in or mm
->dim mm
+>dim mm  
 >dim in
 
 # rim;go 
