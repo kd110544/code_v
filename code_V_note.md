@@ -2,8 +2,10 @@
 wavelength 
 # dim? 
 dimention in or mm
-## dim mm
-## dim in
+***
+dim mm
+dim in
+***
 
 # rim;go 
 ray aberration curve
@@ -14,4 +16,7 @@ set the scale as 2 wavefront
 
 # spo;go
 spot diagram
+
+# PIM
+paraxial image solve 
 
