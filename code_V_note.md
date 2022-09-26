@@ -20,3 +20,10 @@ spot diagram
 # PIM
 paraxial image solve 
 
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
