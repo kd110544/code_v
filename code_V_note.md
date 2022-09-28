@@ -5,57 +5,37 @@
 # [CodeV eLearning Courses - Synopsys](https://www.synopsys.com/optical-solutions/support/online-learning.html/)
 
 
+# wavelength 
+> wl?
 
-# wl?
-
-wavelength 
-
-# dim?
-
-dimention in or mm
-
+# dimention in or mm
+dim?
 > dim mm  
 > dim in
 
-# vie;ssi 12.5;go
+# Lens layout with scale bar 12.5mm
+> vie;ssi 12.5;go
 
-lens layout with scale bar 12.5mm
+# Spot diagram
+> spo;go
 
-# spo;go
+# Ray aberration curve; transverse ray aberration
+> rim;go
 
-spot diagram
+# wavefront aberration curve; wavefront error
+> rim;wfr;go
 
-# rim;go
+#set the scale as 2 wavefront
+> rim;wfr;ssi z1 2;go
 
-ray aberration curve; transverse ray aberration
+# Longitudinal Spherical Aberration
+> fie;lsa;plo;go
 
-# rim;wfr;go
+---
+# paraxial image solve
+PIM 
 
-wavefront aberration curve; wavefront error
-
-# rim;wfr;ssi z1 2;go
-
-set the scale as 2 wavefront
-
-# PIM
-
-paraxial image solve 
-
-
-
-
-
-
-
-
-
-
-
-<div>
-www.google.com
-</div>   
-
-# Markdown Guide
+### Markdown Guide
 
 > **_NOTE:_**  The note content.
 
@@ -66,3 +46,5 @@ _single underscores_
 **double asterisks**
 
 __double underscores__
+
+www.google.com
