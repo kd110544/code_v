@@ -51,8 +51,8 @@ Notes for Synopsys - CODE V Optical Design Software
 
 ## Conjugate Factor
 > C = (u1+u2)/(u1-u2) 
-C = -1 *collimated in* 
-C = +1 *collimated out* 
+_C = -1 **collimated in**_
+_C = +1 **collimated out**_
 
 ## Shaper Factor
 > B = (C1+C2)/(C1-C2) = (R2+R1)/(R2-R1)
