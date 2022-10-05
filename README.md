@@ -1,8 +1,6 @@
-# code_v
 Notes for Synopsys - CODE V Optical Design Software
-
+*---*
 # [CodeV in OSC Site Licensed Software](https://wp.optics.arizona.edu/helpdesk/osc-site-licensed-software/other-links/)
-
 > password: **OSCstudent**
 
 # [CodeV eLearning Courses - Synopsys](https://www.synopsys.com/optical-solutions/support/online-learning.html/)
@@ -11,10 +9,10 @@ Notes for Synopsys - CODE V Optical Design Software
 # Set stop surface
 > STO s1
 
-# dimention in or mm
-dim?
-> dim mm  
-> dim in
+# Set Dimension in or mm
+> dim?
+> dim in  
+> dim mm
 
 # wavelength 
 > wl?
