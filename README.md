@@ -1,30 +1,32 @@
 Notes for Synopsys - CODE V Optical Design Software
-*---*
+---
 # [CodeV in OSC Site Licensed Software](https://wp.optics.arizona.edu/helpdesk/osc-site-licensed-software/other-links/)
 > password: **OSCstudent**
 
 # [CodeV eLearning Courses - Synopsys](https://www.synopsys.com/optical-solutions/support/online-learning.html/)
 
+---
 
 # Set stop surface
-> STO s1
+> sto s1
 
 # Set Dimension in or mm
 > dim?
 > dim in  
 > dim mm
 
-# wavelength 
+# Set Wavelength 
 > wl?
+> wl 587.5618
 
 # Paraxial Image Distance (S: Solve)
-> PIM 
+> pim
 
 # List SPECIFICATION DATA
 > lis
 
 # Rescale focal length to spec (if needed)
-> SCA EFL 100;go
+> sca efl 100;go
 
 # Lens layout with scale bar 12.5mm
 > vie;ssi 12.5;go
@@ -45,10 +47,12 @@ Notes for Synopsys - CODE V Optical Design Software
 > fie;lsa;plo;go
 
 ---
+
+
 ## Conjugate Factor
-> C = (u1+u2)/(u1-u2)
-C = -1 *collimated in*
-C = +1 *collimated out*
+> C = (u1+u2)/(u1-u2) 
+C = -1 *collimated in* 
+C = +1 *collimated out* 
 
 ## Shaper Factor
 > B = (C1+C2)/(C1-C2) = (R2+R1)/(R2-R1)
