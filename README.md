@@ -46,6 +46,8 @@ Notes for Synopsys - CODE V Optical Design Software
 # Longitudinal Spherical Aberration
 > fie;lsa;plo;go
 
+# Show Third Order Aberrations
+> THO
 ---
 
 
